@@ -1,0 +1,22 @@
+.nav_bar {
+  background-color: black;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  font-size: 25px;
+}
+
+.nav_bar a {
+  text-decoration: none;
+  color: white;
+}
+
+.customButton {
+  color: black;
+  background-color: white;
+  border-radius: 20px;
+  border-color: brown;
+}
+
